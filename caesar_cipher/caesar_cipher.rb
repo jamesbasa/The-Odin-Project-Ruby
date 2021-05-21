@@ -1,6 +1,7 @@
 class CaesarCipher
-    # Returns a string with each letter in plaintext replaced by a letter
-    # some fixed number of positions down the alphabet
+    # Takes in a string, plaintext, and the shift factor, num_shift and returns 
+    # a string with each letter in plaintext replaced by a letter shifted down 
+    # the alphabet by num_shift positions
     def encrypt(plaintext, num_shift)
         result = ""
 
