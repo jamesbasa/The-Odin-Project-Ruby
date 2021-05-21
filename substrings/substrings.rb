@@ -1,6 +1,7 @@
 class Substrings
-    # Returns a hash listing each substring (case insensitive) from the array that
-    # was found in the original string and how many times it was found
+    # Takes in a string and an array of valid substrings, and returns a hash
+    # listing each substring (case insensitive) from the array that was found
+    # in the inputted string and how many times it was found
     def substrings(string, substr_array)
         hash = {}
 
