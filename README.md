@@ -11,5 +11,5 @@ A compilation of my self-completed projects from [The Odin Project Ruby course](
 Navigate into any project folder and run its RSpec tests, e.g.:
 ```
 cd caesar_cipher
-rspec spec spec/caesar_cipher_spec.rb --format documentation
+rspec --format documentation
 ```
