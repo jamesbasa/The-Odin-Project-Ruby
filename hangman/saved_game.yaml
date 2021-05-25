@@ -1,0 +1,15 @@
+--- !ruby/object:Hangman
+num_incorrect: 5
+max_incorrect: 6
+word: unsaturate
+is_guessed_array:
+- false
+- true
+- false
+- true
+- false
+- false
+- false
+- true
+- false
+- false
