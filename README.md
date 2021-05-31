@@ -6,6 +6,7 @@ A compilation of my self-completed projects from [The Odin Project Ruby course](
 - Substrings
 - Stock Picker
 - Bubble Sort
+- Hangman
 
 ## Testing
 Navigate into any project folder and run its RSpec tests, e.g.:
